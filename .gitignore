@@ -2,3 +2,5 @@
 *.json
 *.png
 /venv
+/__pycache__
+extracted_figures_extra_large_margin.zip
